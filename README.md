@@ -10,10 +10,6 @@ created in the video:
 - Buy and sell signal visualization
 - Designed for learning indicator structure in MT4
 
-## Files
-- `indicator/Simple_MA_Crossover.mq4`  
-  Main indicator source code
-
 ## How to use
 1. Download or clone this repository
 2. Open MetaTrader 4
@@ -22,6 +18,8 @@ created in the video:
    `MQL4/Indicators`
 5. Restart MT4 or refresh the Navigator
 6. Attach the indicator to any chart
+7. For backtesting, open FTO website: [https://forextester.com/en/]
+8. Upload FTO supported indicator `.js` as shown in the video
 
 ## Backtesting
 This indicator is demonstrated in the video using **Forex Tester Online**
